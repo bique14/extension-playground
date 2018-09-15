@@ -2,6 +2,13 @@
 
 This is the README for your extension "word-count". After writing up a brief description, we recommend including the following sections.
 
+## TO USE
+in mac
+1. hilight the word.
+2. <button>CMD</button> + <button>Shift</button> + <button>P</button>
+3. typing "HelloWorld"
+
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
